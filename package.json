@@ -1,0 +1,25 @@
+{
+  "name": "reschedule",
+  "version": "1.0.0",
+  "description": "A simple rescheduling module for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/experiadent/reschedule.git"
+  },
+  "keywords": [
+    "schedule",
+    "scheduling",
+    "calendar",
+    "experiadent"
+  ],
+  "author": "Michael Dabydeen <mdabydeen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/experiadent/reschedule/issues"
+  },
+  "homepage": "https://github.com/experiadent/reschedule#readme"
+}
